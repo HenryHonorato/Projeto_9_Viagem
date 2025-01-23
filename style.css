@@ -1,9 +1,12 @@
+:root {
+  font-family: "Open Sans", serif;
+}
+
 #page {
   box-sizing: border-box;
   width: 1120px;
   height: 3054px;
   margin: auto;
-  border: solid; /* remover */
 }
 
 #auxilio {
@@ -12,6 +15,32 @@
   margin-left: 80px;
   margin-right: 80px;
   margin-bottom: 141px;
-   border: solid; /* remover */
 }
 
+#tittle-page h1 {
+  color: #E1624F;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.busan {
+  margin-top: 8px;
+  color: #1B1B1B;
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 48px;
+}
+
+#imagem-busan img {
+  border-radius: 28px;
+}
+
+#imagem-busan p {
+  margin-top: 24px;
+  color: #333333;
+  font-size: 16px;
+  font-style: italic;
+  width: 1120px;
+  height: 37;
+  text-align: center;
+}
