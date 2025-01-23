@@ -1,0 +1,17 @@
+#page {
+  box-sizing: border-box;
+  width: 1120px;
+  height: 3054px;
+  margin: auto;
+  border: solid; /* remover */
+}
+
+#auxilio {
+  box-sizing: border-box;
+  margin-top: 84px;
+  margin-left: 80px;
+  margin-right: 80px;
+  margin-bottom: 141px;
+   border: solid; /* remover */
+}
+
