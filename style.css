@@ -1,5 +1,6 @@
 :root {
   font-family: "Open Sans", serif;
+  line-height: auto;
 }
 
 #page {
@@ -43,4 +44,72 @@
   width: 1120px;
   height: 37;
   text-align: center;
+}
+
+#auxiliar2 {
+  margin-top: 40px;
+}
+
+.divider {
+  border-top: 1px solid #D9D9D9;
+  width: 1120px;
+  margin: center;
+}
+
+#introducao-destinos h1 {
+  margin-top: 64px;
+  color: #E1624F;
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 2px;
+}
+
+#introducao-destinos h1 + h2 {
+  margin-top: 2px;
+  color: #1B1B1B;
+  font-size: 32px;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+#introducao-destinos h2 + p {
+  margin-top: 8px;
+  color:#333333;
+  font-size: 16px;
+  width: 1120px;
+  margin-bottom: 64px;
+}
+
+#templo-haedong img {
+  border-radius: 28px;
+}
+
+#templo-haedong h3 {
+  margin-top: 20px;
+  color: #1B1B1B;
+  font-weight: bold;
+  font-size: 28px;
+  margin-bottom: 4px;
+}
+
+#templo-haedong p {
+  color: #333333;
+  font-size: 16px;
+  margin-top: 4px;
+  width: 1120px;
+}
+
+#haedong1 {
+  margin-bottom: 4px;
+  font-weight: bold;
+}
+
+#historia1 {
+  color: #0C51A7;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+#color1 {
+  color: #333333;
 }
